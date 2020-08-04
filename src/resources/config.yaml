@@ -1,0 +1,9 @@
+elasticsearch:
+  url: "http://logcentral-mgmt.eu-west-1.csq.io"
+  port: "9200"
+
+base_retention_days: "30"
+
+long_retention_days: "90"
+
+long_retention_indices: []
